@@ -1,0 +1,13 @@
+Basis-Kurs:
+- (Kurz: CAD Erklärung)
+- Was ist OpenSCAD
+  - "Compiler für 2d/3d Files"
+- (Ansatz von OpenSCAD)
+- Vergleich zu klassischen (interaktiven) CAD Programmen (Blender, AutoDesk)
+  - tinkerCad
+- Oberfläche und Editor
+  - Vorstellung Oberfläche
+- Alternativer Editor + Plugins + (Design -> Automatisches Laden und Vorschau)
+- Erste Beispiele:
+  - verschiedene Formen
+  - Modifikationen
