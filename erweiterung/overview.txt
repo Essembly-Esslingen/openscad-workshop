@@ -1,0 +1,25 @@
+Basis-Kurs:
+- (Kurz: CAD Erklärung)
+- Was ist OpenSCAD
+  - "Compiler für 2d/3d Files"
+- (Ansatz von OpenSCAD)
+- Vergleich zu klassischen (interaktiven) CAD Programmen (Blender, AutoDesk)
+  - tinkerCad
+- Oberfläche und Editor
+  - Vorstellung Oberfläche
+- Alternativer Editor + Plugins + (Design -> Automatisches Laden und Vorschau)
+- Erste Beispiele:
+  - verschiedene Formen
+  - Modifikationen
+  
+  
+Fortgeschritten:
+- lists (Punkte von Schraubendurchführungen und Löchern/Ausschnitten festlegen)
+	- Schraubentaschen ohne Support
+	- 
+- for Schleife
+- if Statements - grössenabhängige Berechnung der Schraubendurchführungen
+- Animation (Schrauben in Gehäuse) oder Querschnitt durch Gehäuse
+- 2D Zeichnung extrudieren (SVG)
+- Projektion
+- Import und Modifikation von STL Dateien

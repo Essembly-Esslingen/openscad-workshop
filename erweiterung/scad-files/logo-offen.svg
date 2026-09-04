@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="733.7984"
+   height="733.79614"
+   viewBox="0 0 194.15083 194.15023"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="logo-undef.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     showborder="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="false"
+     inkscape:zoom="8"
+     inkscape:cx="423.73605"
+     inkscape:cy="400.59398"
+     inkscape:window-width="2560"
+     inkscape:window-height="1381"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-nodes="true"
+     inkscape:object-nodes="true"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10" />
+  <defs
+     id="defs2">
+    <rect
+       x="-136"
+       y="106"
+       width="617"
+       height="548.10236"
+       id="rect14373" />
+    <rect
+       x="11"
+       y="284"
+       width="598"
+       height="524.55902"
+       id="rect3215" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(2.6458333,2.6458333)">
+    <path
+       id="path31"
+       style="color:#000000;fill:#000000;fill-rule:evenodd;stroke-width:1.14004;-inkscape-stroke:none"
+       d="M 94.429587,0 C 42.304549,0 0,42.304551 0,94.429581 c -9.9999998e-7,52.125039 42.304546,94.428989 94.429587,94.428989 52.125043,0 94.429573,-42.30395 94.429573,-94.428989 C 188.85916,42.304551 146.55463,-1.9999999e-6 94.429587,0 Z m 0,4.559882 c 21.907703,0 41.972853,7.828494 57.561113,20.838179 v 25.17006 h -41.56265 -11.670703 -4.53043 l -22.62266,48.83904 -23.38853,-48.83904 h -15.90656 v 41.58093 H 4.588747 C 5.79718,43.543741 45.531395,4.559878 94.429587,4.559882 Z m 62.121593,24.910259 c 17.10103,16.35777 27.74752,39.40691 27.74752,64.95944 0,25.552539 -10.64649,48.601089 -27.74752,64.958849 v -31.46729 h -46.12313 v -15.38105 -17.197949 -0.91314 -9.45557 -16.3708 -7.66578 h 46.12313 v -10.36873 z m -46.12313,64.95886 12.96621,7.486089 12.96619,7.4861 v -9.787839 h 20.19073 v -10.36872 h -20.19073 v -9.78783 l -12.96619,7.48609 z M 43.208108,62.704251 67.421417,114.13545 h 6.95176 l 24.38417,-51.418839 v 75.573249 h 0.006 11.664813 41.56265 v 25.17066 c -15.58826,13.00967 -35.65342,20.83818 -57.561123,20.83818 -48.898388,0 -88.632712,-38.98417 -89.840833,-87.589769 h 27.720419 v 41.580929 h 10.898941 z"
+       inkscape:export-filename="/Users/c.richter/Downloads/logo_makerspace_esslingen/logo_makerspace_esslingen.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
